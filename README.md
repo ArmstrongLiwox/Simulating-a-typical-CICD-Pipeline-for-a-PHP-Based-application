@@ -61,6 +61,6 @@ What we want to achieve, is having Nginx to serve as a reverse proxy for our sit
 
 ![4](images/5.png)
 
-## Other environments from lower to higher.
+## Other environments from lower to higher
 
 ![3](images/6.png)
