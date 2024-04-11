@@ -40,7 +40,9 @@ We will try to utilize our AWS free tier as much as we can. To minimize the cost
 To get started, we will focus on these environments initially.
 
 • Ci 
+
 • Dev
+
 • Pentest
 
 Both SIT and UAT require a lot of extra installation or configuration. They are basically the webservers holding our applications. 
