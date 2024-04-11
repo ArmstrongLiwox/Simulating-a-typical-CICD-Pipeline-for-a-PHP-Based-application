@@ -1,4 +1,4 @@
-# Simulating a typical CI/CD Pipeline for a PHP Based application
+# Simulating a typical CI/CD Pipeline for a PHP Based application.
 ---
 
 As part of the ongoing infrastructure development with Ansible started from a previous a project, we will create a pipeline that simulates continuous integration and delivery. 
