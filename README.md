@@ -167,6 +167,7 @@ In previous projects, you have been launching Ansible commands manually from a C
 To do this,
 
 1. Navigate to Jenkins URL
+
 2. Install & Open Blue Ocean Jenkins Plugin
 3. Create a new pipeline
 
