@@ -74,6 +74,7 @@ You should have a subdomains list like this:
 
 ![5](images/8.png)
 
+
 ## Ansible inventory should look like this
 
 ```
